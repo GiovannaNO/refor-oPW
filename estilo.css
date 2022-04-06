@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(https://www.tate.org.uk/art/images/work/N/N00/N00459_10.jpg); /*https://www.tate.org.uk/art/images/work/N/N00/N00459_10.jpg*/
+    background-position: center;
+    background-size: cover;
+}
+
+#cabecalho{
+    text-align: center;
+    background-color: red;
+}
+
+#corpo{
+    text-align: center;
+}
